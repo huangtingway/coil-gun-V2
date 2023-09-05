@@ -9,7 +9,7 @@ A remote control car with electromagnetic_gun and out of sight control feature.
 
 ## basic system
 - communication chart
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/main/picture/car2-comm%20chart.drawio.png)
+![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/Sheet_2.png)
 
 - behavior chart
 ![image](https://github.com/huangtingway/electromagnetic_gun/blob/main/picture/car2-Page-1.png)
