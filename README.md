@@ -46,4 +46,4 @@ A remote control car with electromagnetic_gun and out of sight control feature.
 ![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_194929.jpg)
 
 ## issue
-- Fire control system is unstable now, when the switch is short circuit, a unknown reason may cause charge circuit resistor overload and burn out.
+- Fire control system is unstable now, when the switch is open, a unknown reason may cause fire charge resistor overload and burn out.
