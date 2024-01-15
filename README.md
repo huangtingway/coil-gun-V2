@@ -9,9 +9,9 @@ A remote control car with electromagnetic_gun and out of sight control feature.
 
 ## basic system
 - communication chart
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-comm%20chart.drawio.png)  
+<img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-comm%20chart.drawio.png" width="500px">
 - behavior chart
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-Page-1.png)  
+<img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-Page-1.png" width="1000px">  
 
 ## picture
 <td>
@@ -20,23 +20,16 @@ A remote control car with electromagnetic_gun and out of sight control feature.
   <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175603.jpg" width="500px">  
   <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175616.jpg" width="500px">  
   <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175636.jpg" width="500px">  
+  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175644.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175658.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193042.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193122.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193135.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_194545.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/Screenshot_20230904_212100_CarControl2.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_194929.jpg" width="500px">  
 </td>
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175644.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175658.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193042.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193122.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193135.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_194545.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/Screenshot_20230904_212100_CarControl2.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_194929.jpg)
 
 ## issue
 - Fire control system is unstable now, when the switch is open, a unknown reason may cause fire charge resistor overload and burn out.
