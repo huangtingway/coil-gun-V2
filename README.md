@@ -9,20 +9,18 @@ A remote control car with electromagnetic_gun and out of sight control feature.
 
 ## basic system
 - communication chart
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-comm%20chart.drawio.png)
+![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-comm%20chart.drawio.png)  
 - behavior chart
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-Page-1.png)
+![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/car2-Page-1.png)  
 
 ## picture
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193052.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175549.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175603.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175616.jpg)
-
-![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175636.jpg)
+<td>
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230904_193052.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175549.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175603.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175616.jpg" width="500px">  
+  <img src="https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175636.jpg" width="500px">  
+</td>
 
 ![image](https://github.com/huangtingway/electromagnetic_gun/blob/master/picture/20230819_175644.jpg)
 
