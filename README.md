@@ -1,8 +1,8 @@
-# electromagnetic_gun
-A remote control car with electromagnetic_gun and out of sight control feature.
+# about
+A remote control car with coil gun and out of sight control feature.
 
 ## feature
-- remote control car with electromagnetic gun
+- remote control car with coil gun
 - control out of sight with FPV system 
 - mid-distance control with NRF system
 - android phone remote control
